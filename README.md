@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I can create impactful web applications with: </b> 」
+                「 I can create impactful web applications with: </b> 
                 <br>
           <br>
         </samp>
