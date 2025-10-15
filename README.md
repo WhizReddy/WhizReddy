@@ -57,36 +57,13 @@
 
 ---
 
-### 📂 Featured Projects
-
-#### 🏋️‍♂️ [Gmy Schedule App](https://github.com/)
-A gym management app that displays member info when scanning a card — built with **React**, **TailwindCSS**, **Express**, and **MongoDB Atlas**.
-
-#### 🧠 HR Management System
-Developed with **NestJS** and **TypeScript**, focusing on role-based access, applicant tracking, and efficient backend logic.
-
-#### 🎉 Event Discovery App (for youth in Albania)
-Full-stack app that helps young people find nearby parties and events using **React**, **Node.js**, and **MongoDB Atlas**.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reddydb&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reddydb&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://reddydb-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/redi-balla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https:[//www.linkedin.com/in/redi-balla](https://www.linkedin.com/in/redi-balla-04758529b/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:redi.balla@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<h4 align="center">✨ “Code with purpose. Build with passion.” ✨</h4>
