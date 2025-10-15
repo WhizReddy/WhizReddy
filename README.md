@@ -9,19 +9,6 @@
   </samp>
 </p>
 
----
-
-### 🧠 About Me
-
-- 🚀 Full-stack developer experienced in **React**, **NestJS**, **Node.js**, and **MongoDB**  
-- 🧩 Focused on building **modern, scalable**, and **user-centric** web apps  
-- ⚙️ Currently improving my **AWS & Cloud architecture** skills  
-- 🌍 Based in Albania 🇦🇱  
-- 🎯 Working on: **Gmy Schedule App** & other personal projects  
-- 🧘‍♂️ Fun fact: I love solving tough problems and making apps that people actually *enjoy* using  
-
----
-
 ### 🧰 Tech Stack
 
 #### Frontend
